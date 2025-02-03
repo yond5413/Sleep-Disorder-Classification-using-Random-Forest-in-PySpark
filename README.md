@@ -78,7 +78,7 @@ This repository provides an end-to-end solution for building and evaluating a ma
 
 - Experiment with other classification algorithms like XGBoost or SVM.
 - Incorporate more features or data sources to improve prediction accuracy.
-- Deploy the model for real-time predictions using a web framework (Flask/Django).
+
 
 
 
